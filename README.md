@@ -69,7 +69,8 @@ const apiKey = "YOUR_API_KEY";
 
 ## 📸 Screenshots
 
-(Add your project screenshots here for better presentation)
+<img width="521" height="851" alt="image" src="https://github.com/user-attachments/assets/27716cb0-e8d0-4bab-898d-8059b1faa4c8" />
+
 
 ---
 
@@ -94,8 +95,4 @@ const apiKey = "YOUR_API_KEY";
 ## ⭐ Support
 
 If you like this project, give it a ⭐ on GitHub!
-
-```
-
----
 
